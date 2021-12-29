@@ -1,1 +1,1 @@
-fast crabby action
+[fast crabby numbers](https://github.com/unic0rn9k/slas)
