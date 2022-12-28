@@ -1,3 +1,5 @@
-I'm 19, sudying my 3rd year at Sukkertoppen. I like math, algorithms and machine learning. Looking forward to start the AI uprising when I grow up!
+It's about the jorney, not the destination. Because you can never reach a destination without a jorney.
+The oxymoron of hope, is what drives perseverance when chances of succeeding are marginal.
+Ideally perseverance should be a matter of prinicple, without reagard for outcome, nor motivation.
 
 ![](https://raw.githubusercontent.com/unic0rn9k/wowitsaraytracer/master/logo.png)
