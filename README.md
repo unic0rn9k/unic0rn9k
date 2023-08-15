@@ -31,6 +31,6 @@
 
 🌐 Explore my GitHub galaxy to witness my coding constellations. Connect with me @unic0rn9k and let's embark on a journey through the landscapes of code, logic, and innovation!
 
-📬 Contact: unic0rn9k@protonmail.com | 📞 +45 42 20 65 23 | ✋ linkedin.com/in/unic0rn9k
+📬 Contact: unic0rn9k@protonmail.com | ✋ linkedin.com/in/unic0rn9k
 
 </center>
