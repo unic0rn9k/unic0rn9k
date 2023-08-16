@@ -23,7 +23,7 @@
 - 🎵 Played conductor with a [Rust rendition of the Cooley-Tukey FFT algorithm](https://github.com/unic0rn9k/fourier-notebook).
 - ♟️ Led a knight's charge with a [Minimax Chess AI in Rust](https://github.com/Bechiscul/chess), complete with a Javascript front-end and WASM sorcery.
 - 🧠 Unveiled the enigma of the mind by creating an [auto-encoder for generating brain images](https://gitlab.com/unic0rn9k/brainctautoencoder), employing Rust and WASM wizardry.
-- 🌐 Revolutionized the realm of asynchronous computation with my [zero-cost, multithreaded & distributed async runtime in Rust](https://github.com/unic0rn9k/metalmorphosis).
+- 🌐 Mastered the realm of asynchronous computation with my [zero-cost, multithreaded & distributed async runtime in Rust](https://github.com/unic0rn9k/metalmorphosis).
 
 🛠️ My toolbox is as diverse as my adventures. From Rust and WASM and Julia to shell scripting and beyond, I'm a polyglot in pursuit of perfection. When I'm not crafting code, I'm unearthing hidden gems in the world of Arch and Neovim, and I'm not afraid to tread in the waters of BLAS, MPI, and CUDA.
 
@@ -31,6 +31,6 @@
 
 🌐 Explore my GitHub galaxy to witness my coding constellations. Connect with me @unic0rn9k and let's embark on a journey through the landscapes of code, logic, and innovation!
 
-📬 Contact: unic0rn9k@protonmail.com | ✋ linkedin.com/in/unic0rn9k
+📬 Contact: unic0rn9k@protonmail.com | ✋ [linkedin.com/in/unic0rn9k](linkedin.com/in/unic0rn9k)
 
 </center>
