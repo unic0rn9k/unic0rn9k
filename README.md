@@ -1,14 +1,7 @@
-<center>
-  
-  <image src='https://raw.githubusercontent.com/unic0rn9k/wowitsaraytracer/master/logo.png' align='right' width="350px">
+<image src='https://raw.githubusercontent.com/unic0rn9k/wowitsaraytracer/master/logo.png' align='right' width="350px">
+<image src='https://skillicons.dev/icons?i=python,pytorch,julia,rust,wasm,,vim,emacs,vscode,,latex,,linux,git,githubactions' width='625'/>
 
-  <image src='https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white' align=left>
-  <image src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white' align=left>
-  <image src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' align=left>
-  <image src='https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white' align=left>
-
-  <br>
-  <br>
+<br>
 
 👋 Hey there, I'm Aksel – a 20-year-young programming enthusiast with an insatiable curiosity for turning abstract problems into elegant solutions. I embarked on my programming journey at the mere age of 10, and I've been captivated by the world of coding ever since. Armed with a love for numbers and a knack for abstract thinking, I've developed a keen understanding of calculus, algebra, and statistics – tools I wield with precision in every coding adventure.
 
@@ -32,5 +25,3 @@
 🌐 Explore my GitHub galaxy to witness my coding constellations. Connect with me @unic0rn9k and let's embark on a journey through the landscapes of code, logic, and innovation!
 
 📬 Contact: unic0rn9k@protonmail.com | ✋ [linkedin.com/in/unic0rn9k](https://linkedin.com/in/unic0rn9k)
-
-</center>
