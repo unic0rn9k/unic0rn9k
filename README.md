@@ -1,9 +1,9 @@
 <image src='https://raw.githubusercontent.com/unic0rn9k/wowitsaraytracer/master/logo.png' align='right' width="350px">
-<image src='https://skillicons.dev/icons?i=python,pytorch,julia,rust,wasm,,vim,emacs,vscode,,latex,,linux,git,githubactions' width='400'/>
+<image src='https://skillicons.dev/icons?i=python,pytorch,julia,rust,wasm,,latex,linux,git,githubactions' width='400'/>
 
 <br>
 
-👋 Hey there, I'm Aksel – a 20-year-young programming enthusiast with an insatiable curiosity for turning abstract problems into elegant solutions. I embarked on my programming journey at the mere age of 10, and I've been captivated by the world of coding ever since. Armed with a love for numbers and a knack for abstract thinking, I've developed a keen understanding of calculus, algebra, and statistics – tools I wield with precision in every coding adventure.
+👋 Hey there, I'm Aksel – a 20-year-old programming enthusiast with an insatiable curiosity for turning abstract problems into elegant solutions. I embarked on my programming journey at the mere age of 10, and I've been captivated by the world of coding ever since. Armed with a love for numbers and a knack for abstract thinking, I've developed a keen understanding of calculus, algebra, and statistics – tools I wield with precision in every coding adventure.
 
 🎓 My education at HTX Sukkertoppen further fueled my passion. With a focus on computer science, I unleashed my creativity through a cascade of projects, both in the classroom and beyond. From whipping up intricate web designs for local boutiques to diving deep into the intricacies of algorithmic puzzles, I thrive on the thrill of creation and discovery.
 
