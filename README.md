@@ -3,7 +3,7 @@
 
 <br>
 
-👋 Hey there, I'm Aksel – a 20-year-old programming enthusiast with an insatiable curiosity for turning abstract problems into elegant solutions.
+👋 Hey there, I'm Aksel – a 20-year-old programmer with an insatiable curiosity for turning abstract problems into elegant solutions.
 I'm fresh out of high school, where I spent 3 years at Sukkertoppen HTX studying computer science.
 I love working with everything from machine learning models in Torch to MPI and BLAS bindings in Rust.
 
