@@ -8,7 +8,7 @@ I'm fresh out of high school, where I spent 3 years at Sukkertoppen HTX studying
 I love working with everything from machine learning models in Torch to MPI and BLAS bindings in Rust.
 
 Check out some of my more impressive projects:
-- [Transformer implementation in PyTorch without using nn.Transformer](https://github.com/unic0rn9k/tiny-py-transformer)
+- [Transformer implementation in PyTorch without using nn.Transformer](https://github.com/unic0rn9k/tiny-py-transformer).
 - [reverse-mode, auto-differentiation graph](https://github.com/unic0rn9k/autodiff) in Rust, levereging Generic Associated Types.
 - [Predicting PDF annotation labels](https://github.com/unic0rn9k/dsv_recruitment) in Julia using KNN and graph embeddings.
 - [Rust implementation of the Cooley-Tukey FFT algorithm](https://github.com/unic0rn9k/fourier-notebook).
