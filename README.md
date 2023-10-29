@@ -16,13 +16,7 @@ Check out some of my more impressive projects:
 - [Auto-encoder for generating brain images](https://gitlab.com/unic0rn9k/brainctautoencoder), employing Rust and WASM.
 - [multithreaded & distributed async runtime](https://github.com/unic0rn9k/metalmorphosis) in Rust.
 
-I prefer a methodical approach to coding and believe that shortcuts mostly end up being detours.
-My ultimate aspiration is to contribute to the development of safe AGI someday, a challenging goal to pursue.
-That's why I hold alternative ideas about motivation and finding meaning in life.
-The oxymoron of hope is what drives perseverance when the odds of success are slim.
-Perseverance should ideally be a matter of principle, independent of outcomes or motivations.
-
-I hope you enjoyed learning a bit about me and what motivates me.
+I hope you enjoyed learning a bit about me and my projects.
 Feel free to connect with me on linkedin or drop me an email if you'd like to get in touch!
 
 📬 unic0rn9k@protonmail.com | 🖇️ [linkedin.com/in/unic0rn9k](https://linkedin.com/in/unic0rn9k)
