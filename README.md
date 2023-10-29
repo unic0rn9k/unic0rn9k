@@ -17,6 +17,7 @@ Check out some of my more impressive projects:
 - [multithreaded & distributed async runtime](https://github.com/unic0rn9k/metalmorphosis) in Rust.
 
 I hope you enjoyed learning a bit about me and my projects.
+
 Feel free to connect with me on linkedin or drop me an email if you'd like to get in touch!
 
 📬 unic0rn9k@protonmail.com | 🖇️ [linkedin.com/in/unic0rn9k](https://linkedin.com/in/unic0rn9k)
