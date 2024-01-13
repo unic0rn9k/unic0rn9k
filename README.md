@@ -7,7 +7,7 @@
 I'm fresh out of high school, where I spent 3 years at Sukkertoppen HTX studying computer science.
 I love working with everything from machine learning models in Torch, to MPI and BLAS bindings in Rust.
 
-Check out some of my more favorite projects:
+Check out some of my favorite projects:
 - [Transformer decoder-block implementation (with backprop) in Julia only using standart library](https://github.com/unic0rn9k/shakespeare_from_scratch).
 - [Transformer decoder-block reference implementation in PyTorch](https://github.com/unic0rn9k/tiny-py-transformer).
 - [reverse-mode, auto-differentiation graph](https://github.com/unic0rn9k/autodiff) in Rust, levereging Generic Associated Types.
