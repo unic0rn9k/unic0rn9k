@@ -1,5 +1,5 @@
 <image src='https://raw.githubusercontent.com/unic0rn9k/wowitsaraytracer/master/logo.png' align='right' width="350px">
-<img src='https://skillicons.dev/icons?i=python,pytorch,julia,rust,wasm,latex,linux,git,githubactions' width='400'/>
+<img src='https://skillicons.dev/icons?i=python,pytorch,julia,rust,wasm,latex,linux,git' width='400'/>
 
 <br>
 
