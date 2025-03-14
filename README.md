@@ -4,7 +4,7 @@
 <br>
 
 👋 Hey there, I'm Aksel – a 21-year-old programmer with an insatiable curiosity for turning abstract problems into elegant solutions.
-I'm currently studying computer Machine Learning & Datascience at Copenhagens University, while working part time at an awesome startup.
+I'm currently studying Machine Learning & Datascience at Copenhagens University, while working part time at an awesome startup.
 I love working with everything from machine learning models in Torch, to MPI and BLAS bindings in Rust.
 
 Check out some of my favorite projects:
